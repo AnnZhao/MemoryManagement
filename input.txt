@@ -1,0 +1,20 @@
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+print blocks
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+print blocks
+insert Charley Patton<SEP>Mississippi Boweavil Blues
+print blocks
+remove artist Blind Lemon Jefferson
+print blocks
+remove artist Ma Rainey
+print blocks
+remove artist Charley Patton
+print blocks
+remove song Long Lonesome Blues
+print blocks
+remove song Ma Rainey's Black Bottom
+print blocks
+remove song Mississippi Boweavil Blues
+print blocks
+print song
+print artist
